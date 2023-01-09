@@ -11,3 +11,6 @@ diff test......
                            
                           Statements: "His Power Is To Rally Those Around Him. Of All The People Seeking To Conquer The Sea, He May Possess The Greatest Talent Of All" 
                                                                                                                                              — Dracule Mihawk
+                         
+                          Dialogue: "Yo! Samurai attack-Divine Departure"
+                                                         - Gold D Roger
