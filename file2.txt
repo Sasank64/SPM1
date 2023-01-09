@@ -4,3 +4,10 @@ hello branch commands
 diff test......
                           Secret code: "One Piece does exist"
                                                         - White Beard
+
+                          Statement: "I will become the pirate king"
+                                                                -Monkey D Luffy
+
+                           
+                          Statements: "His Power Is To Rally Those Around Him. Of All The People Seeking To Conquer The Sea, He May Possess The Greatest Talent Of All" 
+                                                                                                                                             — Dracule Mihawk
